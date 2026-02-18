@@ -10,7 +10,7 @@ const Education = () => {
       field: 'Computer Science & Engineering',
       institution: 'JSS Academy of Technical Education, Noida',
       duration: '2022 – 2026',
-      score: '7.73 CGPA',
+      score: '7.81 CGPA',
       icon: GraduationCap,
       coursework: [
         'Data Structures & Algorithms',
