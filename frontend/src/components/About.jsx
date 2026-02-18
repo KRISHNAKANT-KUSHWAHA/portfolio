@@ -12,7 +12,7 @@ const About = () => {
     {
       icon: Briefcase,
       title: 'Problem Solver',
-      description: '200+ problems solved on LeetCode with strong DSA fundamentals'
+      description: '250+ problems solved on LeetCode with strong DSA fundamentals'
     },
     {
       icon: Award,
@@ -53,7 +53,7 @@ const About = () => {
             </p>
             <div className="flex flex-wrap gap-4 pt-4">
               <div className="text-center">
-                <p className="text-3xl font-bold text-blue-600">200+</p>
+                <p className="text-3xl font-bold text-blue-600">250+</p>
                 <p className="text-sm text-gray-600 dark:text-gray-400">LeetCode Problems</p>
               </div>
               <div className="text-center">
@@ -61,7 +61,7 @@ const About = () => {
                 <p className="text-sm text-gray-600 dark:text-gray-400">Major Projects</p>
               </div>
               <div className="text-center">
-                <p className="text-3xl font-bold text-blue-600">7.73</p>
+                <p className="text-3xl font-bold text-blue-600">7.81</p>
                 <p className="text-sm text-gray-600 dark:text-gray-400">CGPA</p>
               </div>
             </div>
