@@ -41,8 +41,8 @@ const Projects = () => {
     "Razorpay",
     "Tailwind CSS"
   ],
-  github: "https://github.com/KRISHNAKANT-KUSHWAHA/interviewiq-ai",
-  live: "https://interviewiq-ai.onrender.com",
+  github: "https://github.com/KRISHNAKANT-KUSHWAHA/interviewIQ",
+  live: "https://interviewiq-client-pwtq.onrender.com/",
   color: "green"
 },
     {
