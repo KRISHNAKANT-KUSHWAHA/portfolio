@@ -21,6 +21,31 @@ const Projects = () => {
       color: 'blue'
     },
     {
+  title: "InterviewIQ – AI Mock Interview Platform",
+  description: "An AI-powered full-stack interview simulator that analyzes resumes, generates personalized interview questions, evaluates answers using AI, and provides detailed performance analytics.",
+  features: [
+    "AI-generated interview questions based on role, experience, resume, and skills",
+    "Resume PDF analysis using AI to extract role, projects, and skills",
+    "Real-time voice-based interview with speech recognition and text-to-speech",
+    "Automated answer evaluation with scoring for confidence, communication, and correctness",
+    "Performance analytics dashboard with charts and downloadable PDF report",
+    "Credit-based interview system with Razorpay payment integration"
+  ],
+  techStack: [
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "OpenRouter AI API",
+    "Web Speech API",
+    "Razorpay",
+    "Tailwind CSS"
+  ],
+  github: "https://github.com/KRISHNAKANT-KUSHWAHA/interviewiq-ai",
+  live: "https://interviewiq-ai.onrender.com",
+  color: "green"
+},
+    {
       title: 'GemBot – AI Powered Chatbot',
       description: 'An AI-powered chatbot using React.js and Google Gemini API for intelligent, contextual responses with real-time user interaction.',
       features: [
