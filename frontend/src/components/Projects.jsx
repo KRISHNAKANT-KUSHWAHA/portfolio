@@ -46,6 +46,22 @@ const Projects = () => {
   color: "green"
 },
     {
+      title: 'AI Fact-Check Agent',
+      description: 'The AI-powered Fact-Check Agent is a production-ready MERN stack web application that analyzes uploaded PDF documents, extracts factual claims, verifies them using live web data, and classifies them as Verified, Inaccurate, or False.',
+      features: [
+       "Drag-and-drop PDF upload with validation and text extraction.",
+    "AI-powered factual claim extraction using OpenRouter.",
+    "Real-time fact verification with Tavily Search API.",
+    "Verdict dashboard with scores, explanations, and source links.",
+    "Secure architecture with rate limiting, CORS, and report exports.",
+      ],
+      techStack: [ 'React', 'Vite', 'Tailwind CSS', 'Framer Motion', 'Axios', 'React Dropzone', 'Lucide', 'OpenRouter API','Tavily Search API','Node.js', 'Express'],
+      github: 'https://github.com/KRISHNAKANT-KUSHWAHA/fact_check_assessment',
+      live: 'https://fact-check-assessment-client.onrender.com/',
+      color: 'yellow'
+    },
+    
+    {
       title: 'GemBot – AI Powered Chatbot',
       description: 'An AI-powered chatbot using React.js and Google Gemini API for intelligent, contextual responses with real-time user interaction.',
       features: [
